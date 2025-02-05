@@ -30,7 +30,6 @@ Author: Amanda Milberg, Principal Solutions Engineer @ TitanML
 _Note: Requires Reddit API credentials and access to a LLM to function._
 
 ## Why Use an Agent Framework?
-
 - Implements the ReAct (Reasoning + Acting) paradigm for more transparent and controlled AI behavior
 - Provides explicit thinking and action steps for complex tasks
 - Enables better debugging and monitoring of the AI's decision process
@@ -53,8 +52,7 @@ _Note: Requires Reddit API credentials and access to a LLM to function._
 
 _The agent framework transforms what could be a simple script into a more robust, observable, and maintainable system for AI analysis. The agent approach provides better structure, transparency, and reliability for complex AI tasks compared to a simple main function._
 
-# Why Self-Host?
-
+## Why Self-Host?
 🌟 **Key Benefits of Self-Hosting** 
 
 1. **Cost-Effective Performance**
@@ -70,8 +68,8 @@ _The agent framework transforms what could be a simple script into a more robust
 3. **Deployment Flexibility**
    - Run locally on your own infrastructure
    - Scale resources based on actual needs
-# Why Deep Seek?
 
+## Why Deep Seek?
 1. **Specialized Reasoning Capabilities**
    - Optimized for logical reasoning and analysis tasks
    - Efficient chain-of-thought processing
