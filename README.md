@@ -2,8 +2,6 @@
 
 Author: Amanda Milberg, Principal Solutions Engineer @ Doubleword
 
-[Presentation Slides](https://docs.google.com/presentation/d/1nar6_2VrRtR7l6HcanoUFAql9l8THs3Ob6LT2PCbYGw/edit?usp=sharing)
-
 🎯 **Main Purpose**:
 - Analyzes r/technology subreddit posts to identify and summarize GenAI-related content
 - Generates professional summaries of AI trends and developments to send to downstream users who want to stay up to date on the latest trends
