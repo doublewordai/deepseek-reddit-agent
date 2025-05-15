@@ -1,6 +1,6 @@
 ## Reddit GenAI Trend Analysis with ReAct Agent Framework
 
-Author: Amanda Milberg, Principal Solutions Engineer @ TitanML
+Author: Amanda Milberg, Principal Solutions Engineer @ Doubleword
 
 [Presentation Slides](https://docs.google.com/presentation/d/1nar6_2VrRtR7l6HcanoUFAql9l8THs3Ob6LT2PCbYGw/edit?usp=sharing)
 
@@ -81,5 +81,5 @@ _The agent framework transforms what could be a simple script into a more robust
    - Firm believer in owning your AI stack 
    - Smaller / specalized models for a given application  
 
-_Note: In this demo we are running a self-hosted [DeepSeek-R1-Distill-Llama-8B](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Llama-8B) deployed on 4xL4 GPUs using the [TitanML's Takeoff Stack](https://docs.titanml.co/). If you want to try this on your own you can pull this repository and swap in an OpenAI model. The code uses OpenAI compatiable endpoints so any model should be able to be swapped in. If you have any questions please reach out to: amanda.milberg@titanml.co_
+_Note: In this demo we are running a self-hosted [DeepSeek-R1-Distill-Llama-8B](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Llama-8B) deployed on 4xL4 GPUs using [Doubleword's Infernece Platform](https://docs.doubleword.ai/). If you want to try this on your own you can pull this repository and swap in an OpenAI model. The code uses OpenAI compatiable endpoints so any model should be able to be swapped in. If you have any questions please reach out to: amanda.milberg@doubleword.ai_
 
